@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    padding-left: calc(50% - 351px/2); /*div tam olarak ekran genişliğinde, yani margin için yarısını alır, ondan da logonun widthsinin yarısını çıkarırısak resmi tam ortalamış oluruz.*/
+}
+.sectionul{
+    width: 1132px;
+    margin: auto;
+}
+
+#sectionliid1{
+    background-color:rgb(238, 238, 238);
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+}
